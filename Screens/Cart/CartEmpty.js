@@ -15,7 +15,7 @@ export default () => {
             <TouchableOpacity 
                 onPress = {() => navigation.navigate('Home')}
                 style={{width:350,height:80,backgroundColor:'#58b4ae',justifyContent:'center',
-                 alignSelf:'center',marginTop:50,borderRadius:40}}>
+                 alignSelf:'center',marginTop:50,borderRadius:45}}>
                 <Text style={{fontWeight:'bold',fontSize:25,color:'white',textAlign:'center'}}>
                     ADD COURSES TO CART
                 </Text>
